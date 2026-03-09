@@ -1,1 +1,1 @@
-openrouter_api = "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"
+openrouter_api = ""
